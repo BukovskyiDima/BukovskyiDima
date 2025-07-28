@@ -1,5 +1,7 @@
-# 👋 Hi, I’m Dima Bukovskyi
+# 👋 Hi
 <!--
+, I’m Dima Bukovskyi
+
 **Front‑end Developer** with a passion for React, TypeScript and clean UI.
 
 ---
